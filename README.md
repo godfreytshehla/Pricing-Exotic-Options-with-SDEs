@@ -25,9 +25,11 @@ Monte Carlo simulation is a powerful numerical method used to estimate the value
 To use this code, you'll need Python 3.x and the following packages:
 - numpy
 - matplotlib
+- pandas
+- seaborn
 
 You can install the required packages using pip:
 
 ```bash
-pip install numpy matplotlib
+pip install numpy matplotlib pandas seaborn
 
