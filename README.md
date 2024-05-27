@@ -7,11 +7,7 @@ This repository contains Python code for pricing exotic options using Monte Carl
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-
+- 
 ## Introduction
 
 Monte Carlo simulation is a powerful numerical method used to estimate the value of financial derivatives. This repository focuses on using Monte Carlo techniques to price various exotic options, such as Asian options, Barrier options, and Lookback options.
@@ -34,3 +30,4 @@ You can install the required packages using pip:
 
 ```bash
 pip install numpy matplotlib
+
