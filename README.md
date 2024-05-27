@@ -18,9 +18,9 @@ Monte Carlo simulation is a powerful numerical method used to estimate the value
 
 ## Features
 
-- Simulate underlying asset price paths using Geometric Brownian Motion (GBM).
+- Simulate underlying asset price paths using a chosen stochastic differential equation.
 - Price Asian options (arithmetic average).
-- Price Lookback options (fixed and floating strike).
+- Price Lookback options (floating strike).
 - Price Exchange options.
 - Price Min/Max Asset options
 
